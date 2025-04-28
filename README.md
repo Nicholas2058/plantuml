@@ -88,7 +88,7 @@ PlantUML is an open-source project, and we welcome contributions of all kinds. W
 
 For comprehensive and detailed documentation on using PlantUML, refer to the [official Javadoc, available here](https://plantuml.github.io/plantuml/). Please note that this documentation is a work in progress and may not be complete.
 
-## 🧑‍🤝‍🧑 Support and Community
+## 🧑‍🤝‍🧑 Support and Community.
 
 - [GitHub issues](https://github.com/plantuml/plantuml/issues/)
 - [Community Forum](https://forum.plantuml.net/)
